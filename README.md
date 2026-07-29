@@ -5,7 +5,7 @@ A modern, professional website template designed specifically for web design bus
 ## 🇿🇦 **South African Features**
 
 ### **Local Market Focus**
-- South African Rand (ZAR) pricing starting from R5,000
+- South African Rand (ZAR) pricing starting from R8,000
 - Province selection in contact form
 - POPIA compliance mentions
 - PayFast payment gateway integration ready
