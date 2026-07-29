@@ -13,10 +13,10 @@ A modern, professional website template designed specifically for web design bus
 - Multi-language support (English/Afrikaans)
 - Local SEO optimization for SA search engines
 
-### **Pricing Structure (ZAR)**
-- **Business Starter Package**: R5,000 once-off
-- **E-commerce Starter**: R8,500 once-off  
-- **Service Business Pro**: R7,000 once-off
+### **Investment Structure (ZAR)**
+- **Business Starter Package**: from R8000
+- **E-commerce Starter**: from R14,500   
+- **Service Business Pro**: from R10,000
 
 ## 🚀 Features
 
